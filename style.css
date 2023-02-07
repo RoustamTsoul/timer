@@ -1,0 +1,18 @@
+body{
+    font-family:"Broadway";
+    background-color: rgb(79, 234, 79);
+}
+
+.timer-container{
+    background-color: rgb(18, 106, 147);
+    border: 5px solid white;
+    border-radius: 6px;
+    margin-top: 20%;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    margin: 0;
+}
